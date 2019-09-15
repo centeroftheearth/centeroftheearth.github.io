@@ -452,7 +452,7 @@ body {
 	font-family: 'Kazesawa-Regular', "Open Sans", "Hiragino Kaku Gothic ProN", Meiryo, Helvetica, Arial, sans-serif;
 	line-height: 200%;
 	word-wrap: break-word;
-font-feature-setting: "palt";
+font-feature-settings: "palt";
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Kazesawa-Regular', "Open Sans", "Hiragino Kaku Gothic ProN", Meiryo, Helvetica, Arial, sans-serif;
