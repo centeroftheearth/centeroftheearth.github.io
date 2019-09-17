@@ -1,4 +1,3 @@
-<script>
     var url="http://api.jugemkey.jp/api/horoscope/free/jsonp/";
  
     var d=new Date();
@@ -36,4 +35,3 @@ function func(items){
   var myArea = document.getElementById("myArea");
   myArea.innerHTML = tStr;
 }
-</script>
